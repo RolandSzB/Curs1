@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/RolandSzB/Curs1.git",
   "author": "SziBe Roland <roland.szilagyi-benedek@emanuel.ro>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.7.0"
+  }
 }
