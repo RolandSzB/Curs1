@@ -1,4 +1,8 @@
 {
   "name": "Curs1",
-  "packageManager": "yarn@3.6.4"
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RolandSzB/Curs1.git",
+  "author": "SziBe Roland <roland.szilagyi-benedek@emanuel.ro>",
+  "license": "MIT"
 }
